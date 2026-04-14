@@ -1,4 +1,4 @@
-# Carousel Studio
+# ✨ Carousel Studio
 
 A sleek, browser-based LinkedIn carousel post creator with live canvas preview, multi-slide management, and one-click PDF export. Built with vanilla HTML, CSS, and Canvas API — zero dependencies, zero build step.
 
